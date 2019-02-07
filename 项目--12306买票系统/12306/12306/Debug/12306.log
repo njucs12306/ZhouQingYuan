@@ -1,0 +1,3 @@
+﻿  12306.cpp
+c:\users\周清远\desktop\项目--12306买票系统\12306\12306\12306.cpp(233): warning C4172: 返回局部变量或临时变量的地址: content
+  12306.vcxproj -> C:\Users\周清远\Desktop\项目--12306买票系统\12306\Debug\12306.exe

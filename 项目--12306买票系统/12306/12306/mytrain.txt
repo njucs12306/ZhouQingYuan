@@ -1,0 +1,3 @@
+D001 100 BeiJing>TianJin>Dezhou>AnHui>ShangHai
+D002 100 NanJing>HangZhou>ShangHai
+D003 100 XiZang>NingXia>ChengDu>GuiZhou
