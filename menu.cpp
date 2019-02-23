@@ -1,4 +1,5 @@
 #include"pch.h"
+#include <iostream>
 using namespace std;
 //主菜单显示函数
 void main_menu()
